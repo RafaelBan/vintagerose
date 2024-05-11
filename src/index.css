@@ -7,6 +7,8 @@ body,
 #root {
   @apply h-full;
   @apply w-full;
+  @apply font-montserrat;
+  @apply scroll-smooth;
 }
 
 /* width */
