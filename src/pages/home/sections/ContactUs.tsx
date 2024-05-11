@@ -7,7 +7,7 @@ function ContactUs() {
       <div className="relative w-full h-[40rem] overflow-hidden flex flex-col justify-center items-center">
         <img
           className="absolute translate-y-40 contrast-[.30]"
-          src="/contact1.jpg"
+          src="/vintagerose/contact1.jpg"
           style={{ maxWidth: "none" }}
         />
         <div className="flex flex-col gap-10 w-full items-center px-8">

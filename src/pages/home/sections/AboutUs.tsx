@@ -23,7 +23,7 @@ function AboutUs() {
       <div className="lg:w-1/2 relative overflow-hidden">
         <img
           className="hidden lg:block lg:absolute lg:-translate-y-96"
-          src="/aboutUs.jpg"
+          src="/vintagerose/aboutUs.jpg"
           style={{ maxWidth: "none" }}
         />
       </div>

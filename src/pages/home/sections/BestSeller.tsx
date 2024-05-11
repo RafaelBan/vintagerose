@@ -10,19 +10,19 @@ function BestSeller() {
       <div className="flex gap-2 flex-wrap justify-evenly h-full w-full">
         <div className="flex flex-col gap-3">
           <div className="flex flex-col justify-center items-center h-72 overflow-hidden">
-            <img className="h-96 w-72" src="/bestSeller1.jpg" />
+            <img className="h-96 w-72" src="/vintagerose/bestSeller1.jpg" />
           </div>
           <span>Sade Love</span>
         </div>
         <div className="flex flex-col gap-3">
           <div className="flex justify-center items-center h-72 overflow-hidden">
-            <img className="h-96 w-72" src="/bestSeller2.jpg" />
+            <img className="h-96 w-72" src="/vintagerose/bestSeller2.jpg" />
           </div>
           <span>Marry Me</span>
         </div>
         <div className="flex flex-col gap-3">
           <div className="flex justify-center items-center h-72 overflow-hidden">
-            <img className="h-96 w-72" src="/bestSeller3.jpg" />
+            <img className="h-96 w-72" src="/vintagerose/bestSeller3.jpg" />
           </div>
           <span>Send Love</span>
         </div>

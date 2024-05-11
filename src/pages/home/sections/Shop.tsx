@@ -58,7 +58,7 @@ function Shop() {
               <div className="flex justify-center items-center h-72 overflow-hidden">
                 <img
                   className="h-96 w-72"
-                  src="/bestSeller1.jpg"
+                  src="/vintagerose/bestSeller1.jpg"
                   style={{ maxWidth: "none" }}
                 />
               </div>
@@ -72,7 +72,7 @@ function Shop() {
               <div className="flex justify-center items-center h-72 overflow-hidden">
                 <img
                   className="h-96 w-72"
-                  src="/arrive.jpg"
+                  src="/vintagerose/arrive.jpg"
                   style={{ maxWidth: "none" }}
                 />
               </div>
@@ -86,7 +86,7 @@ function Shop() {
               <div className="flex justify-center items-center h-72 overflow-hidden">
                 <img
                   className="h-96 w-72"
-                  src="/shop1.jpg"
+                  src="/vintagerose/shop1.jpg"
                   style={{ maxWidth: "none" }}
                 />
               </div>
@@ -100,7 +100,7 @@ function Shop() {
               <div className="flex justify-center items-center h-72 overflow-hidden">
                 <img
                   className="h-96 w-72"
-                  src="/shop2.jpg"
+                  src="/vintagerose/shop2.jpg"
                   style={{ maxWidth: "none" }}
                 />
               </div>
@@ -114,7 +114,7 @@ function Shop() {
               <div className="flex justify-center items-center h-72 overflow-hidden">
                 <img
                   className="h-96 w-72"
-                  src="/bestSeller3.jpg"
+                  src="/vintagerose/bestSeller3.jpg"
                   style={{ maxWidth: "none" }}
                 />
               </div>
@@ -128,7 +128,7 @@ function Shop() {
               <div className="flex justify-center items-center h-72 overflow-hidden">
                 <img
                   className="h-96 w-72"
-                  src="/bestSeller1.jpg"
+                  src="/vintagerose/bestSeller1.jpg"
                   style={{ maxWidth: "none" }}
                 />
               </div>
@@ -142,7 +142,7 @@ function Shop() {
               <div className="flex justify-center items-center h-72 overflow-hidden">
                 <img
                   className="h-96 w-72"
-                  src="/arrive.jpg"
+                  src="/vintagerose/arrive.jpg"
                   style={{ maxWidth: "none" }}
                 />
               </div>
@@ -156,7 +156,7 @@ function Shop() {
               <div className="flex justify-center items-center h-72 overflow-hidden">
                 <img
                   className="h-96 w-72"
-                  src="/shop1.jpg"
+                  src="/vintagerose/shop1.jpg"
                   style={{ maxWidth: "none" }}
                 />
               </div>
@@ -170,7 +170,7 @@ function Shop() {
               <div className="flex justify-center items-center h-72 overflow-hidden">
                 <img
                   className="h-96 w-72"
-                  src="/shop2.jpg"
+                  src="/vintagerose/shop2.jpg"
                   style={{ maxWidth: "none" }}
                 />
               </div>
@@ -184,7 +184,7 @@ function Shop() {
               <div className="flex justify-center items-center h-72 overflow-hidden">
                 <img
                   className="h-96 w-72"
-                  src="/bestSeller3.jpg"
+                  src="/vintagerose/bestSeller3.jpg"
                   style={{ maxWidth: "none" }}
                 />
               </div>
@@ -218,7 +218,7 @@ function Shop() {
       <div className="relative w-full h-[50rem] overflow-hidden flex flex-col justify-center items-center">
         <img
           className="absolute translate-y-40"
-          src="/shop3.jpg"
+          src="/vintagerose/shop3.jpg"
           style={{ maxWidth: "none" }}
         />
         <div className="flex flex-col w-full lg:w-1/2 self-end">

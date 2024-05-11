@@ -15,7 +15,7 @@ function Arrive() {
       <div className="flex w-full h-full justify-center items-center relative overflow-hidden">
         <img
           className="absolute translate-y-96"
-          src="/arrive.jpg"
+          src="/vintagerose/arrive.jpg"
           style={{ maxWidth: "none" }}
         />
         <div className="flex flex-col gap-10 -translate-y-20">
