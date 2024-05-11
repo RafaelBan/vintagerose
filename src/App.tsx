@@ -4,7 +4,7 @@ import Home from "./pages/home/Home";
 function App() {
   return (
     <div className="h-full w-full">
-      <BrowserRouter>
+      <BrowserRouter basename={"/vintagerose/"}>
         <Routes>
           <Route path="/" element={<Home />} />
         </Routes>
