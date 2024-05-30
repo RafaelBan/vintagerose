@@ -65,7 +65,7 @@ function Shop() {
               <div className="flex flex-col">
                 <span>Sade Love</span>
                 <span className="opacity-40">Vintage Rose</span>
-                <span className="font-bold">450 RON</span>
+                <span className="font-bold">180 RON</span>
               </div>
             </div>
             <div className="flex flex-col gap-3">
@@ -79,7 +79,7 @@ function Shop() {
               <div className="flex flex-col">
                 <span>Daisy</span>
                 <span className="opacity-40">Vintage Rose</span>
-                <span className="font-bold">200 RON</span>
+                <span className="font-bold">70 RON</span>
               </div>
             </div>
             <div className="flex flex-col gap-3">
@@ -93,7 +93,7 @@ function Shop() {
               <div className="flex flex-col">
                 <span>Rosalina</span>
                 <span className="opacity-40">Vintage Rose</span>
-                <span className="font-bold">400 RON</span>
+                <span className="font-bold">85 RON</span>
               </div>
             </div>
             <div className="flex flex-col gap-3">
@@ -107,7 +107,7 @@ function Shop() {
               <div className="flex flex-col">
                 <span>Tulipa</span>
                 <span className="opacity-40">Vintage Rose</span>
-                <span className="font-bold">200 RON</span>
+                <span className="font-bold">70 RON</span>
               </div>
             </div>
             <div className="flex flex-col gap-3">
@@ -121,7 +121,7 @@ function Shop() {
               <div className="flex flex-col">
                 <span>Casandra</span>
                 <span className="opacity-40">Vintage Rose</span>
-                <span className="font-bold">250 RON</span>
+                <span className="font-bold">130 RON</span>
               </div>
             </div>
             <div className="flex flex-col gap-3">
@@ -135,7 +135,7 @@ function Shop() {
               <div className="flex flex-col">
                 <span>Sade Love</span>
                 <span className="opacity-40">Vintage Rose</span>
-                <span className="font-bold">450 RON</span>
+                <span className="font-bold">180 RON</span>
               </div>
             </div>
             <div className="flex flex-col gap-3">
@@ -149,7 +149,7 @@ function Shop() {
               <div className="flex flex-col">
                 <span>Daisy</span>
                 <span className="opacity-40">Vintage Rose</span>
-                <span className="font-bold">200 RON</span>
+                <span className="font-bold">70 RON</span>
               </div>
             </div>
             <div className="flex flex-col gap-3">
@@ -163,7 +163,7 @@ function Shop() {
               <div className="flex flex-col">
                 <span>Rosalina</span>
                 <span className="opacity-40">Vintage Rose</span>
-                <span className="font-bold">400 RON</span>
+                <span className="font-bold">85 RON</span>
               </div>
             </div>
             <div className="flex flex-col gap-3">
@@ -177,7 +177,7 @@ function Shop() {
               <div className="flex flex-col">
                 <span>Tulipa</span>
                 <span className="opacity-40">Vintage Rose</span>
-                <span className="font-bold">200 RON</span>
+                <span className="font-bold">70 RON</span>
               </div>
             </div>
             <div className="flex flex-col gap-3">
@@ -191,7 +191,7 @@ function Shop() {
               <div className="flex flex-col">
                 <span>Casandra</span>
                 <span className="opacity-40">Vintage Rose</span>
-                <span className="font-bold">250 RON</span>
+                <span className="font-bold">130 RON</span>
               </div>
             </div>
           </div>
