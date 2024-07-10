@@ -230,6 +230,36 @@ function Shop() {
           </span>
         </div>
       </div>
+      <div className="w-full h-[80rem] md:h-[42rem] overflow-hidden flex flex-wrap md:flex-nowrap justify-center items-center px-16 py-16 gap-16">
+        <img
+          className="h-96"
+          src="/vintagerose/kwiatomat.jpeg"
+          style={{ maxWidth: "none" }}
+        />
+        <div className="flex flex-col gap-6">
+          <span className="text-3xl font-bold">Bloom box</span>
+          <span>
+            We offer to our customers access to wonderful bouquets 24/7,
+            bringing the elegance of flowers at any moment, even outside of the
+            working hours. Our vending machine offers the best solution for
+            anyone wishing to buy fresh flowers at any time of day and night,
+            offering a wide selection of bouquets and floral arrangements in a
+            fast and easy way.
+          </span>
+          <span className="font-bold">Where do you find us:</span>
+          <span>
+            Our flower vending machines are placed in accesibile places, like
+            outside of flower shops, at the front of stores and around the
+            county hospital, on Liviu Rebreanu avenue.
+          </span>
+          <span className="font-bold">Order now!</span>
+          <span>
+            Enjoy the beauty of fresh flowers at any moment of the day. Visit
+            one of our vending machines and discover how easy is to bring a
+            smile on the face of someone special to you.
+          </span>
+        </div>
+      </div>
     </div>
   );
 }
